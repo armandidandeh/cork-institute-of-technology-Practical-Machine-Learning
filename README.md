@@ -1,2 +1,4 @@
-# cork-institute-of-technology-Practical-Machine-Learning
-Practical Machine Learning
+# Cork-Institute-of-Technology
+
+COMP9061 - Practical Machine Learning
+
